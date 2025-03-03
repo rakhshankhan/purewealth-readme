@@ -29,7 +29,7 @@ More and more Muslims—and ethically conscious investors in general—are seeki
    - Structured and unstructured data sets
 4. **Natural Language Processing**: Cleans and standardizes the scraped data.
 5. **LLM Analysis**:
-   - Feeds the structured data into a **fine-tuned LLaMa model**.
+   - Feeds the structured data into a **fine-tuned Deepseek model**.
    - The model applies **S&P Global’s Shariah Compliance Framework** to determine if a company meets Shariah standards.
 6. **Results & Storage**: The LLM evaluation is returned to the Evaluation Controller, displayed to the user, and stored in **MongoDB** for future reference.
 
@@ -38,7 +38,7 @@ More and more Muslims—and ethically conscious investors in general—are seeki
 - **Frontend**: Next.js / React (TypeScript, JavaScript, CSS)
 - **Backend**: Python (Flask/FastAPI, etc.)
 - **Database**: MongoDB
-- **LLM**: LLaMa (trained & fine-tuned in-house)
+- **LLM**: Deepseek (trained & fine-tuned in-house)
 - **Infrastructure**: Docker
 - **Version Control**: Git
 
