@@ -66,6 +66,5 @@ We’d like to thank everyone who has contributed to this project:
 ![Ui Screenshot](Screenshots/4.png)
 ![Ui Screenshot](Screenshots/5.png)
 ![Ui Screenshot](Screenshots/6.png)
-![Ui Screenshot](Screenshots/7.png)
 
 **Purewealth**: Accelerating the dawn of ethical and Shariah-based investing, one company at a time.
