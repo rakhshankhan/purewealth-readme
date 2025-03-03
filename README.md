@@ -1,5 +1,7 @@
 # Purewealth
 
+#### Disclaimer: The main repository will not be made open source.
+
 ## Overview
 
 In a world where responsible investing is more important than ever, **Purewealth** emerges as a transformative solution. With an increasing demand for Shariah-compliant financial services, and a surge in investors seeking to align their portfolios with their values, Purewealth brings efficiency and clarity to the evaluation process. Our ultimate mission? To democratize financial knowledge and **bring Islamic Finance to the forefront**.
@@ -65,26 +67,5 @@ We’d like to thank everyone who has contributed to this project:
 ![Ui Screenshot](Screenshots/5.png)
 ![Ui Screenshot](Screenshots/6.png)
 ![Ui Screenshot](Screenshots/7.png)
-
-## Getting Started
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/zaidokal/purewealth.git
-   ```
-2. Install Dependencies
-
-   - Frontend: npm install (or yarn) in the client directory
-   - Backend: pip install -r requirements.txt in the server directory
-
-3. Run Services
-
-   - Docker: docker-compose up in the root folder
-   - Manual: npm run dev for the Next.js frontend
-
-4. Access Application
-   - Go to http://localhost:3000 to interact with the Purewealth interface.
-
-##
 
 **Purewealth**: Accelerating the dawn of ethical and Shariah-based investing, one company at a time.
